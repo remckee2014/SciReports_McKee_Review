@@ -1,0 +1,136 @@
+"","Site","Station","mesoPres","Fruit","T2F.capped","prop.consumed"
+"1",23,"23DA","Detected","Beautyberry",7.03222222222222,1
+"2",23,"23DA","Detected","Cocoplum",7.03222222222222,1
+"3",23,"23DA","Detected","Pond Apple",7.03222222222222,1
+"4",23,"23DB","Detected","Beautyberry",43.925,0.7
+"5",23,"23DB","Detected","Cocoplum",43.925,0.8
+"6",23,"23DB","Detected","Pond Apple",43.925,0.2
+"7",23,"23DC","Detected","Beautyberry",33.5027777777778,1
+"8",23,"23DC","Detected","Cocoplum",33.5027777777778,1
+"9",23,"23DC","Detected","Pond Apple",33.5027777777778,1
+"10",53,"53DA","Not Detected","Beautyberry",80.6305555555556,0.05
+"11",53,"53DA","Not Detected","Cocoplum",80.6305555555556,0.2
+"12",53,"53DA","Not Detected","Pond Apple",80.6305555555556,0.4
+"13",53,"53DB","Not Detected","Beautyberry",5.29972222222222,0.1
+"14",53,"53DB","Not Detected","Cocoplum",5.29972222222222,0.2
+"15",53,"53DB","Not Detected","Pond Apple",5.29972222222222,0
+"16",53,"53DC","Not Detected","Beautyberry",23.0566666666667,0.2
+"17",53,"53DC","Not Detected","Cocoplum",23.0566666666667,1
+"18",53,"53DC","Not Detected","Pond Apple",23.0566666666667,0
+"19",54,"54DD","Not Detected","Beautyberry",47.3338888888889,0.7
+"20",54,"54DD","Not Detected","Cocoplum",47.3338888888889,1
+"21",54,"54DD","Not Detected","Pond Apple",47.3338888888889,0.1
+"22",54,"54DE","Not Detected","Beautyberry",18.6255555555556,0.71
+"23",54,"54DE","Not Detected","Cocoplum",18.6255555555556,1
+"24",54,"54DE","Not Detected","Pond Apple",18.6255555555556,0.12
+"25",54,"54DF","Not Detected","Beautyberry",45.1294444444444,0.06
+"26",54,"54DF","Not Detected","Cocoplum",45.1294444444444,1
+"27",54,"54DF","Not Detected","Pond Apple",45.1294444444444,0
+"28",95,"95DA","Detected","Beautyberry",60.5491666666667,0.5
+"29",95,"95DA","Detected","Cocoplum",60.5491666666667,0.6
+"30",95,"95DA","Detected","Pond Apple",60.5491666666667,0
+"31",95,"95DC","Detected","Beautyberry",89.5894444444444,0.2
+"32",95,"95DC","Detected","Cocoplum",89.5894444444444,0.25
+"33",95,"95DC","Detected","Pond Apple",89.5894444444444,0
+"34",95,"95DE","Detected","Beautyberry",120,0.2
+"35",95,"95DE","Detected","Cocoplum",120,0
+"36",95,"95DE","Detected","Pond Apple",120,0
+"37",112,"112DC","Not Detected","Beautyberry",1.12277777777778,0
+"38",112,"112DC","Not Detected","Cocoplum",1.12277777777778,0
+"39",112,"112DC","Not Detected","Pond Apple",1.12277777777778,0
+"40",112,"112DE","Not Detected","Beautyberry",120,0
+"41",112,"112DE","Not Detected","Cocoplum",120,0
+"42",112,"112DE","Not Detected","Pond Apple",120,0
+"43",112,"112DF","Not Detected","Beautyberry",30.0994444444444,0.05
+"44",112,"112DF","Not Detected","Cocoplum",30.0994444444444,0.15
+"45",112,"112DF","Not Detected","Pond Apple",30.0994444444444,0
+"46",67,"67DE","Detected","Beautyberry",8.67666666666667,0.03
+"47",67,"67DE","Detected","Cocoplum",8.67666666666667,1
+"48",67,"67DE","Detected","Pond Apple",8.67666666666667,0
+"49",67,"67DF","Detected","Beautyberry",5.03805555555556,0.9
+"50",67,"67DF","Detected","Cocoplum",5.03805555555556,1
+"51",67,"67DF","Detected","Pond Apple",5.03805555555556,0
+"52",67,"67DH","Detected","Beautyberry",7.39222222222222,0.3
+"53",67,"67DH","Detected","Cocoplum",7.39222222222222,1
+"54",67,"67DH","Detected","Pond Apple",7.39222222222222,0.05
+"55",93,"93DA","Detected","Beautyberry",120,0
+"56",93,"93DA","Detected","Cocoplum",120,0
+"57",93,"93DA","Detected","Pond Apple",120,0
+"58",93,"93DC","Detected","Beautyberry",3.79138888888889,0
+"59",93,"93DC","Detected","Cocoplum",3.79138888888889,0
+"60",93,"93DC","Detected","Pond Apple",3.79138888888889,0
+"61",93,"93DB","Detected","Beautyberry",120,0
+"62",93,"93DB","Detected","Cocoplum",120,0
+"63",93,"93DB","Detected","Pond Apple",120,0
+"64",5,"05DD","Not Detected","Beautyberry",59.1222222222222,0.1
+"65",5,"05DD","Not Detected","Cocoplum",59.1222222222222,0.2
+"66",5,"05DD","Not Detected","Pond Apple",59.1222222222222,0
+"67",5,"05DB","Not Detected","Beautyberry",68.0152777777778,0
+"68",5,"05DB","Not Detected","Cocoplum",68.0152777777778,0
+"69",5,"05DB","Not Detected","Pond Apple",68.0152777777778,0
+"70",5,"05DF","Not Detected","Beautyberry",120,0
+"71",5,"05DF","Not Detected","Cocoplum",120,0
+"72",5,"05DF","Not Detected","Pond Apple",120,0
+"73",106,"106DG","Detected","Beautyberry",50.9444444444444,0.05
+"74",106,"106DG","Detected","Cocoplum",50.9444444444444,0.2
+"75",106,"106DG","Detected","Pond Apple",50.9444444444444,0.01
+"76",106,"106DI","Detected","Beautyberry",120,0
+"77",106,"106DI","Detected","Cocoplum",120,0
+"78",106,"106DI","Detected","Pond Apple",120,0
+"79",106,"106DH","Detected","Beautyberry",120,0
+"80",106,"106DH","Detected","Cocoplum",120,0
+"81",106,"106DH","Detected","Pond Apple",120,0
+"82",91,"91DE","Detected","Beautyberry",35.4888888888889,0.2
+"83",91,"91DE","Detected","Cocoplum",35.4888888888889,1
+"84",91,"91DE","Detected","Pond Apple",35.4888888888889,0
+"85",91,"91DC","Detected","Beautyberry",15.3163888888889,0.05
+"86",91,"91DC","Detected","Cocoplum",15.3163888888889,1
+"87",91,"91DC","Detected","Pond Apple",15.3163888888889,1
+"88",91,"91DA","Detected","Beautyberry",15.1030555555556,0.81
+"89",91,"91DA","Detected","Cocoplum",15.1030555555556,1
+"90",91,"91DA","Detected","Pond Apple",15.1030555555556,1
+"91",113,"113DI","Not Detected","Beautyberry",69.0511111111111,0.35
+"92",113,"113DI","Not Detected","Cocoplum",69.0511111111111,0.9
+"93",113,"113DI","Not Detected","Pond Apple",69.0511111111111,0.1
+"94",113,"113DH","Not Detected","Beautyberry",1.04805555555556,0.8
+"95",113,"113DH","Not Detected","Cocoplum",1.04805555555556,0.95
+"96",113,"113DH","Not Detected","Pond Apple",1.04805555555556,0.35
+"97",113,"113DG","Not Detected","Beautyberry",1.06722222222222,0.8
+"98",113,"113DG","Not Detected","Cocoplum",1.06722222222222,1
+"99",113,"113DG","Not Detected","Pond Apple",1.06722222222222,0.3
+"100",116,"116DA","Detected","Beautyberry",40.2761111111111,0.1
+"101",116,"116DA","Detected","Cocoplum",40.2761111111111,1
+"102",116,"116DA","Detected","Pond Apple",40.2761111111111,0
+"103",116,"116DB","Detected","Beautyberry",46.5163888888889,0.15
+"104",116,"116DB","Detected","Cocoplum",46.5163888888889,1
+"105",116,"116DB","Detected","Pond Apple",46.5163888888889,0
+"106",116,"116DD","Detected","Beautyberry",45.7972222222222,0.25
+"107",116,"116DD","Detected","Cocoplum",45.7972222222222,1
+"108",116,"116DD","Detected","Pond Apple",45.7972222222222,0.05
+"109",114,"114DG","Detected","Beautyberry",120,0
+"110",114,"114DG","Detected","Cocoplum",120,0
+"111",114,"114DG","Detected","Pond Apple",120,0
+"112",114,"114DI","Detected","Beautyberry",34.1136111111111,0.05
+"113",114,"114DI","Detected","Cocoplum",34.1136111111111,1
+"114",114,"114DI","Detected","Pond Apple",34.1136111111111,0.05
+"115",114,"114DC","Detected","Beautyberry",120,0.05
+"116",114,"114DC","Detected","Cocoplum",120,0
+"117",114,"114DC","Detected","Pond Apple",120,0
+"118",42,"42DH","Not Detected","Beautyberry",23.1386111111111,0
+"119",42,"42DH","Not Detected","Cocoplum",23.1386111111111,0
+"120",42,"42DH","Not Detected","Pond Apple",23.1386111111111,0.01
+"121",42,"42DD","Not Detected","Beautyberry",25.0061111111111,0
+"122",42,"42DD","Not Detected","Cocoplum",25.0061111111111,0
+"123",42,"42DD","Not Detected","Pond Apple",25.0061111111111,0
+"124",42,"42DA","Not Detected","Beautyberry",69.2236111111111,0
+"125",42,"42DA","Not Detected","Cocoplum",69.2236111111111,0
+"126",42,"42DA","Not Detected","Pond Apple",69.2236111111111,0
+"127",117,"117DB","Detected","Beautyberry",107.598333333333,0
+"128",117,"117DB","Detected","Cocoplum",107.598333333333,0.05
+"129",117,"117DB","Detected","Pond Apple",107.598333333333,0
+"130",117,"117DE","Detected","Beautyberry",54.4019444444444,0.3
+"131",117,"117DE","Detected","Cocoplum",54.4019444444444,1
+"132",117,"117DE","Detected","Pond Apple",54.4019444444444,0
+"133",117,"117DF","Detected","Beautyberry",120,0
+"134",117,"117DF","Detected","Cocoplum",120,0
+"135",117,"117DF","Detected","Pond Apple",120,0
